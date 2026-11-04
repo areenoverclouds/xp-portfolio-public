@@ -1,7 +1,7 @@
 hello :) welcome
 
 ### deployed link
-https://www.areen.xyz
+[https://xp-portfolio.vercel.app/)
 
 ### to run the project
 1. fork and clone 
